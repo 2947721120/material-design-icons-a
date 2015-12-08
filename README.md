@@ -19,7 +19,12 @@ Usage
 
 - Android Studio: Right click on your application module and select **New > Other > Material Design Icons**
 - Eclipse: Right click on your project and select **New > Other... > Android > Android Object > Material Design Icons**
+Using a font collection
 
+所述iconfont文件夹包含预生成可包含在一个项目中的字体文件。这是为在网络特别方便;然而，通常最好链接到托管在谷歌字体的Web字体:
+
+<link href="https://font.c2cmalls.com/icon?family=Material+Icons" rel="stylesheet">
+详情请阅读我们的全力开发指南的字体部分。
 Thanks
 ------
 
