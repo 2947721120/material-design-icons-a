@@ -1,7 +1,6 @@
 材料设计图标ADT模板
 =========================
-
-Android Studio / Eclipse ADT template for including icon resources from [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons) in your project.
+Android的工作室/ Eclipse的ADT模板，包括图标演示在https://www.google.com/design/icons/
 
 ![menu](menu.png "menu")
 ![template](template.png "template")
